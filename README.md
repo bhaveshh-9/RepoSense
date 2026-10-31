@@ -1,4 +1,5 @@
 # RepoSense
+<<<<<<< HEAD
 
 A full-stack web application for analyzing GitHub repository activity and assessing software project health.
 
@@ -35,3 +36,6 @@ RepoSense/
 ## Project Status
 
 Currently in development.
+=======
+A GitHub Repository Intelligence and Development Analytics Platform built with Angular, Spring Boot, and MySQL, with an experimental repository health scoring approach.
+>>>>>>> 5b61846ae12d93ddd9213d27e6646cb6745deee5
