@@ -1,0 +1,28 @@
+# Java compiled files
+*.class
+
+# Maven build output
+target/
+
+# Spring Boot logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Angular dependencies and build output
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
